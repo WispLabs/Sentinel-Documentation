@@ -12,18 +12,18 @@ Lists all the configuration commands for Sentinel.
  
  Prefix Command
  --------------
- Permission Required: **Server Administrator** or **Manage Guild**</br>
- Action: Changes the bots prefix within your server</br>
- Snippet: **s]prefix [new prefix]** 
+ - Permission Required: **Server Administrator** or **Manage Guild**
+ - Action: Changes the bots prefix within your server
+ - Snippet: **s]prefix [new prefix]** 
  
  Logging Command
  ---------------
- Permission Required: **Server Administrator** or **Manage Guild**</br>
- Action: Sets the logging channel for the bot to send logging messages in.</br>
- Snippet: **s]logging [channel]**
+ - Permission Required: **Server Administrator** or **Manage Guild**
+ - Action: Sets the logging channel for the bot to send logging messages in.
+ - Snippet: **s]logging [channel]**
  
  Welcome Command
  ---------------
- Permission Required: **Server Administrator** or **Manage Guild**</br>
- Action: Sets the welcome channel for the bot to send welcome messages to.</br>
- Snippet: **s]welcome [channel]**
+ - Permission Required: **Server Administrator** or **Manage Guild**
+ - Action: Sets the welcome channel for the bot to send welcome messages to.
+ - Snippet: **s]welcome [channel]**
